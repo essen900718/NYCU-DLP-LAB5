@@ -1,0 +1,6 @@
+python dqn-example.py
+python dqn-example.py --episode 1
+
+python dqn-example.py --test_only --model dqn.pth
+
+python dqn-example.py

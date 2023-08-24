@@ -1,0 +1,1 @@
+Namespace(device='cuda', model='dqn.pth', logdir='log\\dqn\\exp3', warmup=10000, episode=2500, capacity=10000, batch_size=128, lr=0.0005, eps_decay=0.995, eps_min=0.01, gamma=0.99, freq=4, target_freq=1000, test_only=False, render=False, seed=20200519, test_epsilon=0.001)

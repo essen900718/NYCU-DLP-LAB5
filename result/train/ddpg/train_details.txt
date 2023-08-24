@@ -1,0 +1,1 @@
+Namespace(device='cuda', model='ddpg.pth', logdir='log\\ddpg\\exp2', warmup=10000, episode=2000, batch_size=64, capacity=500000, lra=0.001, lrc=0.001, gamma=0.99, tau=0.005, test_only=False, render=False, seed=20200519)
